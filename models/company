@@ -1,0 +1,3 @@
+class awesome_models(model.Models):
+	name = "awersome"
+
