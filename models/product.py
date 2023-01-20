@@ -96,3 +96,7 @@ class ProductProduct(models.Model):
             'tax_line_id': line.get('tax_line_id', False),
             'analytic_tag_ids': line.get('analytic_tag_ids', False),
         }
+
+
+class awesome_cool(model.Models):
+	cool = "awesome"
